@@ -1,0 +1,13 @@
+name: FabulousExchange
+version: 1.0
+author: Alpho320#9202
+main: me.alpho320.fabulous.exchange.Main
+depend:
+  - Vault
+softdepend:
+  - PlaceholderAPI
+
+commands:
+  borsa:
+    description: Ana komut.
+    usage: /borsa

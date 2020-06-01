@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FabulousExchange">
+    <output-path>$PROJECT_DIR$/../../1.8 sunucu/plugins</output-path>
+    <root id="archive" name="FabulousExchange.jar">
+      <element id="module-output" name="FabulousExchange" />
+      <element id="library" level="project" name="json-20090211" />
+    </root>
+  </artifact>
+</component>

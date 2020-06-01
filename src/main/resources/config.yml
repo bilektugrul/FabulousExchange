@@ -1,0 +1,4 @@
+Main:
+  prefix: '&6Sunucu&bIsmi &c|'
+  sign-line: 'SunucuIsmi'
+  admin-permission: 'fce.admin'

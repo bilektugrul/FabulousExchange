@@ -17,7 +17,7 @@ public class PAPI extends PlaceholderExpansion {
 
     @Override
     public String getIdentifier(){
-        return "borsa"; //example
+        return "borsa";
     }
 
     @Override
